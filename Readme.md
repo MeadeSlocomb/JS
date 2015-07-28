@@ -1,13 +1,24 @@
-## Welcome to CodeBytes, a code conversation community
+##CodeBytes: Code, Conversation, Community
 
 > Checkout CodeBytes, a social networking app for coders of all experience levels to share Ah-ha! moments and nuggets of knowledge, ask questions (add Gists if you need to!), and just talk about the joys and tribulations related to programming.
 
-## Usage
+##About our tech:
 
-This template contains some simple `gulp` tasks. They are as follows:
+The CodeBytes front end was built using:
 
+Javascript frameworks and libraries:
 
-- `gulp watch`: This will launch a Node Server and start the standard `watchlist` task
-- `gulp bower`: This will move the bower components into their proper location. This will run during the `watch` task, but you may need to run it manually once in a while
+-AngularJS
+-Angular UI-Router
+-JQuery
+-Underscore.js
+-Satellizer (OAuth library)
+-Angular Gist (Github Gist embed tool)
+-dirPagination.js (pagination tool)
+-Moment.js (library for time manipulation)
+-Ng-tags-input.js (library assisting with searchable tags)
 
-There are many more tasks, and you really should read through the `gulpfile.js`.
+CSS/Design Frameworks and Libraries:
+
+-Zurb Foundation
+-Font-Awesome
