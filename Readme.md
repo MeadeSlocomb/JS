@@ -8,17 +8,17 @@ The CodeBytes front end was built using:
 
 Javascript frameworks and libraries:
 
--AngularJS
--Angular UI-Router
--JQuery
--Underscore.js
--Satellizer (OAuth library)
--Angular Gist (Github Gist embed tool)
--dirPagination.js (pagination tool)
--Moment.js (library for time manipulation)
--Ng-tags-input.js (library assisting with searchable tags)
+-AngularJS </br>
+-Angular UI-Router </br>
+-JQuery </br>
+-Underscore.js </br>
+-Satellizer (OAuth library) </br>
+-Angular Gist (Github Gist embed tool) </br>
+-dirPagination.js (pagination tool) </br>
+-Moment.js (library for time manipulation) </br>
+-Ng-tags-input.js (library assisting with searchable tags) </br>
 
 CSS/Design Frameworks and Libraries:
 
--Zurb Foundation
--Font-Awesome
+-Zurb Foundation </br>
+-Font-Awesome </br>
