@@ -1,5 +1,5 @@
 {
-  "name": "theironwire",
+  "name": "codebytes-deployed",
   "root": "app",
   "clean_urls": true,
   "error_page": "error.html"

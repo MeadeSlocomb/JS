@@ -20,7 +20,7 @@
         PostService.addNewPost(newPost)
           .success(function () {
 
-            // Route Home
+          // Route Home
             $location.path('/');
             $scope.post = {};
           });

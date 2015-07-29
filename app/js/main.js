@@ -83,9 +83,8 @@
 
 
       $authProvider.github({
-        clientId: 'c5dc1797fa0f28e2bdef',
+        clientId: '7ab0c77e00440005341a',
       });
-
       $authProvider.httpInterceptor = true; // Add Authorization header to HTTP request
       $authProvider.loginOnSignup = true;
       $authProvider.baseUrl = '/';  // API Base URL for the paths below.
