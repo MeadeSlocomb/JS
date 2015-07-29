@@ -52,7 +52,7 @@
         if (currentUser !== null) {
           return $sce.trustAsHtml('<img class="avatar" src="' + currentUser.avatar + '">');
         } else {
-          return $sce.trustAsHtml('<i class="fa fa-user fa-2x portrait"></i>');
+          return $sce.trustAsHtml('<i class="fa fa-user fa-3x portrait"></i>');
         }
       };
 
