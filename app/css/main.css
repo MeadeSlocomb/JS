@@ -112,8 +112,8 @@ nav a:hover {
   width: 40px;
   height: 40px;
   display: inline-block;
-  margin: 5px 5px;
-  color: white; }
+  text-align: center;
+  margin: 5px 4px; }
 
 .profPortrait {
   color: black; }
@@ -375,7 +375,6 @@ input[type="text"] {
       font-size: 1.5em; }
   .team-member .fa {
     display: inline-block;
-    font-size: 1.25em;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -662,9 +661,6 @@ article {
 
 .addreplybtn {
   padding: 0.625rem 1rem 0.6875rem 1rem; }
-
-.fa {
-  font-size: 1.2em; }
 
 .foot {
   float: right;

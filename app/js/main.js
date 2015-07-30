@@ -83,7 +83,7 @@
 
 
       $authProvider.github({
-        clientId: '7ab0c77e00440005341a',
+        clientId: '449fbb7bd7e7a0d47f9b',
       });
       $authProvider.httpInterceptor = true; // Add Authorization header to HTTP request
       $authProvider.loginOnSignup = true;

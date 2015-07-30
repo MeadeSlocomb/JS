@@ -11,7 +11,6 @@ nav {
   border-bottom: 1px solid RGBA(240, 240, 240, 1);
   height: 65px;
   width: 100%;
-  // margin-bottom: 50px;
   position: relative;
   overflow: visible;
 }
@@ -134,12 +133,11 @@ nav a:hover {
 }
 
 .portrait {
-//   width: 40px;
-//   height: 40px;
+  width: 40px;
+  height: 40px;
   display: inline-block;
   text-align: center;
-  margin: 5px auto;
-  color: red;
+  margin: 5px 4px;
 }
 
 .profPortrait {
@@ -501,7 +499,7 @@ input[type="text"] {
 
   .fa {
     display: inline-block;
-    font-size: 1.25em;
+    // font-size: 1.25em;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -892,7 +890,7 @@ article {
 }
 
 .fa {
-  font-size: 1.2em;
+  // font-size: 1.2em;
 }
 
 //////////////////////////////////////////////////////////////////////////
